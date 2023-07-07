@@ -22,10 +22,10 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/txtMoview"
+        android:id="@+id/txtMovie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Watch your favorite \nmovie"
+        android:text="Siente la Euforia \nmovie"
         android:textAlignment="center"
 
         android:textSize="30sp"
